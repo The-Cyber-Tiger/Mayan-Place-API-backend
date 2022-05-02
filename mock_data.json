@@ -1,0 +1,182 @@
+[
+        {
+          
+            "name": "Casa Armadillo",
+            "location": "Tulum",
+            "address": "Zona Centro",
+            "rooms": 4,
+            "area": 900,
+            "price": 400,
+            "conditions": "All Services",
+            "about": "Comoda vivienda, consectetur adipiscing elit. Proin posuere diam ut dictum viverra. Nam consectetur lectus et pretium molestie. Phasellus lacinia sapien nec ex vestibulum mollis. Mauris et est mollis, tempor felis nec, tristique odio. Duis et erat ac nulla auctor pellentesque tincidunt in tellus. Morbi pulvinar nunc quis justo pretium, at fringilla metus accumsan. Mauris accumsan vulputate odio vel finibus.",
+            "category": "NEW",
+            "imgUrl": "https://images.unsplash.com/photo-1585351923007-bf6a01cb19de?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
+            
+        },
+        {
+          
+            "name": "Yum Kaax",
+            "location": "Cozumel",
+            "address": "Quinta San Miguelin, privada del canal num.1",
+            "rooms": 4,
+            "area": 2500,
+            "price": 200,
+            "conditions": "All Services",
+            "about": "Dios del Maíz, consectetur adipiscing elit. Proin posuere diam ut dictum viverra. Nam consectetur lectus et pretium molestie. Phasellus lacinia sapien nec ex vestibulum mollis. Mauris et est mollis, tempor felis nec, tristique odio. Duis et erat ac nulla auctor pellentesque tincidunt in tellus. Morbi pulvinar nunc quis justo pretium, at fringilla metus accumsan. Mauris accumsan vulputate odio vel finibus.",
+            "category": "HOT",
+            "imgUrl": "https://images.unsplash.com/photo-1520483601560-389dff434fdf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
+            
+        },
+        {
+            "name": "Kauil",
+            "location": "Cozumel",
+            "address": "Quinta San Miguelin, privada del canal num.2",
+            "rooms": 3,
+            "area": 3200,
+            "price": 250,
+            "conditions": "All Services",
+            "about": "Dios del Fuego, consectetur adipiscing elit. Proin posuere diam ut dictum viverra. Nam consectetur lectus et pretium molestie. Phasellus lacinia sapien nec ex vestibulum mollis. Mauris et est mollis, tempor felis nec, tristique odio. Duis et erat ac nulla auctor pellentesque tincidunt in tellus. Morbi pulvinar nunc quis justo pretium, at fringilla metus accumsan. Mauris accumsan vulputate odio vel finibus.",
+            "category": "HOT",
+            "imgUrl": "https://images.unsplash.com/photo-1549414279-6984e1b270cd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
+            
+        },
+        {
+            
+            "name": "Yum Kimil",
+            "location": "Cozumel",
+            "address": "Quinta San Miguelin, privada del canal num.3",
+            "rooms": 4,
+            "area": 2750,
+            "price": 325,
+            "conditions": "All Services",
+            "about": "Dios de la Muerte, consectetur adipiscing elit. Proin posuere diam ut dictum viverra. Nam consectetur lectus et pretium molestie. Phasellus lacinia sapien nec ex vestibulum mollis. Mauris et est mollis, tempor felis nec, tristique odio. Duis et erat ac nulla auctor pellentesque tincidunt in tellus. Morbi pulvinar nunc quis justo pretium, at fringilla metus accumsan. Mauris accumsan vulputate odio vel finibus.",
+            "category": "HOT",
+            "imgUrl": "https://images.unsplash.com/photo-1568548681901-a5bddd81907e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+           
+        },
+        {
+            
+            "name": "Pawahtún",
+            "location": "Hollbox",
+            "address": "Real Maya, 1ra Seccion 15Km Playa Roman",
+            "rooms": 4,
+            "area": 1700,
+            "price": 350,
+            "conditions": "Basic",
+            "about": "Dios Maya, cargador del Cosmos, consectetur adipiscing elit. Proin posuere diam ut dictum viverra. Nam consectetur lectus et pretium molestie. Phasellus lacinia sapien nec ex vestibulum mollis. Mauris et est mollis, tempor felis nec, tristique odio. Duis et erat ac nulla auctor pellentesque tincidunt in tellus. Morbi pulvinar nunc quis justo pretium, at fringilla metus accumsan. Mauris accumsan vulputate odio vel finibus.",
+            "category": "NEW",
+            "imgUrl": "https://images.unsplash.com/photo-1501855901885-8b29fa615daf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+           
+        },
+        {
+            
+            "name": "Ixchel",
+            "location": "Hollbox",
+            "address": "Real Maya, 2da Seccion 15Km Playa Roman",
+            "rooms": 3,
+            "area": 2750,
+            "price": 400,
+            "conditions": "Basic",
+            "about": "Diosa del amor, consectetur adipiscing elit. Proin posuere diam ut dictum viverra. Nam consectetur lectus et pretium molestie. Phasellus lacinia sapien nec ex vestibulum mollis. Mauris et est mollis, tempor felis nec, tristique odio. Duis et erat ac nulla auctor pellentesque tincidunt in tellus. Morbi pulvinar nunc quis justo pretium, at fringilla metus accumsan. Mauris accumsan vulputate odio vel finibus.",
+            "category": "NEW",
+            "imgUrl": "https://images.unsplash.com/photo-1504730655501-24c39ac53f0e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
+            
+        },
+        {
+           
+            "name": "Kinich Ahau",
+            "location": "Hollbox",
+            "address": "Real Maya, 3ra Seccion 15Km Playa Roman",
+            "rooms": 3,
+            "area": 3200,
+            "price": 425,
+            "conditions": "Basic",
+            "about": "Dios del Sol, consectetur adipiscing elit. Proin posuere diam ut dictum viverra. Nam consectetur lectus et pretium molestie. Phasellus lacinia sapien nec ex vestibulum mollis. Mauris et est mollis, tempor felis nec, tristique odio. Duis et erat ac nulla auctor pellentesque tincidunt in tellus. Morbi pulvinar nunc quis justo pretium, at fringilla metus accumsan. Mauris accumsan vulputate odio vel finibus.",
+            "category": "NEW",
+            "imgUrl": "https://images.unsplash.com/photo-1504814532849-cff240bbc503?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+        },
+        {
+            
+            "name": "Itzamná",
+            "location": "Tulum",
+            "address": "5th Avenue, camino rivera 32Km",
+            "rooms": 6,
+            "area": 5400,
+            "price": 425,
+            "conditions": "Fully equipped",
+            "about": "Dios Maya de la sabiduría, consectetur adipiscing elit. Proin posuere diam ut dictum viverra. Nam consectetur lectus et pretium molestie. Phasellus lacinia sapien nec ex vestibulum mollis. Mauris et est mollis, tempor felis nec, tristique odio. Duis et erat ac nulla auctor pellentesque tincidunt in tellus. Morbi pulvinar nunc quis justo pretium, at fringilla metus accumsan. Mauris accumsan vulputate odio vel finibus.",
+            "category": "TOP",
+            "imgUrl": "https://images.unsplash.com/photo-1568634170136-dc2f95c67193?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
+            
+        },
+        {
+            
+            "name": "Hunab Ku",
+            "location": "Tulum",
+            "address": "1th Avenue, camino rivera 1Km",
+            "rooms": 5,
+            "area": 4400,
+            "price": 500,
+            "conditions": "Fully equipped",
+            "about": "Dios Maya, padre de todos los Dioses, consectetur adipiscing elit. Proin posuere diam ut dictum viverra. Nam consectetur lectus et pretium molestie. Phasellus lacinia sapien nec ex vestibulum mollis. Mauris et est mollis, tempor felis nec, tristique odio. Duis et erat ac nulla auctor pellentesque tincidunt in tellus. Morbi pulvinar nunc quis justo pretium, at fringilla metus accumsan. Mauris accumsan vulputate odio vel finibus.",
+            "category": "TOP",
+            "imgUrl": "https://images.unsplash.com/photo-1548623832-065a018e01ce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1431&q=80"
+           
+        },
+        {
+            
+            "name": "Chaac",
+            "location": "Tulum",
+            "address": "2th Avenue, camino rivera 2Km",
+            "rooms": 5,
+            "area": 3400,
+            "price": 425,
+            "conditions": "Fully equipped",
+            "about": "Dios de los relámpagos y la lluvia, consectetur adipiscing elit. Proin posuere diam ut dictum viverra. Nam consectetur lectus et pretium molestie. Phasellus lacinia sapien nec ex vestibulum mollis. Mauris et est mollis, tempor felis nec, tristique odio. Duis et erat ac nulla auctor pellentesque tincidunt in tellus. Morbi pulvinar nunc quis justo pretium, at fringilla metus accumsan. Mauris accumsan vulputate odio vel finibus.",
+            "category": "TOP",
+            "imgUrl": "https://images.unsplash.com/photo-1602281807778-ef209a1318d9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+            
+        },
+        {
+            
+            "name": "Casa Jaguar",
+            "location": "Tulum",
+            "address": "Zona Centro",
+            "rooms": 2,
+            "area": 800,
+            "price": 350,
+            "conditions": "Basic",
+            "about": "Comoda vivienda, consectetur adipiscing elit. Proin posuere diam ut dictum viverra. Nam consectetur lectus et pretium molestie. Phasellus lacinia sapien nec ex vestibulum mollis. Mauris et est mollis, tempor felis nec, tristique odio. Duis et erat ac nulla auctor pellentesque tincidunt in tellus. Morbi pulvinar nunc quis justo pretium, at fringilla metus accumsan. Mauris accumsan vulputate odio vel finibus.",
+            "category": "HOT",
+            "imgUrl": "https://images.unsplash.com/photo-1638760890088-61b238ac7d90?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+           
+        },
+        {
+         
+            "name": "Casa Canario",
+            "location": "Tulum",
+            "address": "Zona Centro",
+            "rooms": 2,
+            "area": 850,
+            "price": 300,
+            "conditions": "Basic",
+            "about": "Comoda vivienda, consectetur adipiscing elit. Proin posuere diam ut dictum viverra. Nam consectetur lectus et pretium molestie. Phasellus lacinia sapien nec ex vestibulum mollis. Mauris et est mollis, tempor felis nec, tristique odio. Duis et erat ac nulla auctor pellentesque tincidunt in tellus. Morbi pulvinar nunc quis justo pretium, at fringilla metus accumsan. Mauris accumsan vulputate odio vel finibus.",
+            "category": "HOT",
+            "imgUrl": "https://images.unsplash.com/photo-1528913775512-624d24b27b96?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
+            
+        },
+        {
+           
+            "name": "Casa Dragon",
+            "location": "Tulum",
+            "address": "Zona Centro",
+            "rooms": 6,
+            "area": 1400,
+            "price": 325,
+            "conditions": "Fully equipped",
+            "about": "Casa Dragon, consectetur adipiscing elit. Proin posuere diam ut dictum viverra. Nam consectetur lectus et pretium molestie. Phasellus lacinia sapien nec ex vestibulum mollis. Mauris et est mollis, tempor felis nec, tristique odio. Duis et erat ac nulla auctor pellentesque tincidunt in tellus. Morbi pulvinar nunc quis justo pretium, at fringilla metus accumsan. Mauris accumsan vulputate odio vel finibus.",
+            "category": "HOT",
+            "imgUrl": "https://images.unsplash.com/photo-1592555059503-0a774cb8d477?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+            
+        }
+    ]
