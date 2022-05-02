@@ -3,3 +3,6 @@ API REST for the Mayan Place App. Just handle the client requests and store the 
 
 ## About Mayan Place app.
 Check the app repo -> to know more about.
+
+## Status
+**Online** - Deployed on Heroku.
